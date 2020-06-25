@@ -46,4 +46,3 @@ recordistRouter.route('/:recordistId')
 });
 
 module.exports = recordistRouter;
-
